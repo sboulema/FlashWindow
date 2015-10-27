@@ -1,2 +1,5 @@
 # FlashWindow
-Flash any Windows window from the command line
+Flash any window from the command line
+
+# Usage
+`flashwindow [process] [title]`
