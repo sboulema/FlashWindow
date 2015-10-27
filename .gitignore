@@ -1,0 +1,4 @@
+*.user
+*.suo
+FlashWindow/bin/
+FlashWindow/obj/
